@@ -17,6 +17,8 @@ cd pfin
 make
 ```
 
+The compiled program will then appear in `target/release/pfin`.
+
 # Contributing
 This tool was initially planned to work on other Unix-like operating systems, not just Linux. If you know a technique that can achieve similar results to `pidfd_open` and works on other OS/older Linux kernel version, please open an issue or submit a pull request.
 
